@@ -4,7 +4,7 @@ export const HomeWrapper = styled.div`
   text-align: center;
   margin-top: 50px;
 `;
-
+//несломал
 export const WeatherBox = styled.div`
   background: rgba(255, 255, 255, 0.1);
   border-radius: 20px;
